@@ -4,7 +4,7 @@
 This project demonstrates a method for exfiltrating screenshots from a Windows machine to a Linux attacker machine. It involves using PowerShell to take screenshots, VBScript to run the PowerShell script stealthily, creating a scheduled task on the victim machine to run the VBScript at regular intervals, and a shell script to automate the download on the attacker's machine.
 
 <p align="center">
-  <img src="https://github.com/YourUsername/screenshot-exfiltration/raw/main/images/screenshot-exfiltration-overview.png" alt="Overview Screenshot" width="800">
+  <img src="https://github.com/LukeWait/screenshot-exfiltration/raw/main/images/screenshot-exfiltration-overview.png" alt="Overview Screenshot" width="800">
 </p>
 
 ## Table of Contents
